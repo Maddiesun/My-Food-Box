@@ -1,5 +1,5 @@
 # My-Food-Box
-> Outline a brief description of your project.
+
 > Video Link [_here_](https://www.example.com). 
 
 ## Table of Contents
