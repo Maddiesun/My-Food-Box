@@ -1,7 +1,6 @@
 # My-Food-Box
 
-> Video Link [_here_]((https://youtu.be/HPX_c2rgcvc)). 
-
+> Video Link [_here_](https://youtu.be/HPX_c2rgcvc).
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
